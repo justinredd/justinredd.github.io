@@ -3,8 +3,10 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+This is, for now, a collection of quotes I want to access with some degree of ease.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+It is also an excuse to get to know Jekyll.
 
-This theme is made by me. You have a nice day. ♥
+The [source](https://github.com/justinredd/justinredd.github.io) for this site is on GitHub. Go ahead and issue a PR if you have ideas for changing it.
+
+This theme is forked from [Scribble](https://github.com/muan/scribble), which is made by [Mu-An](http://muan.co/).
